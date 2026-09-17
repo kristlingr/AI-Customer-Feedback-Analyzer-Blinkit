@@ -119,7 +119,7 @@ I plan to extend the project with:
  
 ## 📁 Project Structure
 
-
+![AI Customer Feedback Analyzer - Project Structure](Screenshot/Project-Structure.png)
 
     
 ## 🎓 Project Purpose

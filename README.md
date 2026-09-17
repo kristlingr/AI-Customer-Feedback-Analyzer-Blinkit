@@ -2,7 +2,7 @@
 
 An AI-powered automation project that analyzes customer feedback and converts unstructured comments into structured, actionable insights.
 
-📌 Overview
+## 📌 Overview
 
 I built this project to explore how AI and automation can be combined to solve a practical business problem.
 
@@ -22,27 +22,7 @@ Suggest actions based on customer complaints
 Understand how AI can be integrated into business workflows
 
 ## 🔄 Workflow
-Customer Feedback
-       │
-       ▼
- Google Sheets
-       │
-       ▼
-   Make.com
-       │
-       ▼
-   AI Analysis
-       │
-       ├── Sentiment
-       ├── Category
-       ├── Summary
-       └── Recommended Action
-       │
-       ▼
- Google Sheets
-       │
-       ▼
- Structured Customer Insights
+![AI Customer Feedback Analyzer - Workflow](Screenshot/Feedback-Analyser.png)
 
 ## 🧠 What the AI Analyzes
 
@@ -148,6 +128,6 @@ It helps businesses quickly identify customer sentiment, understand recurring is
 
 👤 Author
 
-TheAnalyst Grover
+Twinkle Grover
 
 Exploring AI Engineering, AI Automation, Data Analytics & Generative AI.
